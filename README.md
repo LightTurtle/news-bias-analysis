@@ -1,4 +1,4 @@
-# [Project Name]
+# News Bias Detector
 
 **Status**: 🚧 No Longer In Development due to new project interests | **Last Updated**: August 2024
 
